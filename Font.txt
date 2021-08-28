@@ -1,0 +1,38 @@
+Thin 100
+Light 300
+Regular 400
+Medium 500
+Bold 700
+Black 900
+
+Nunito
+
+ Extra-light 200
+ Extra-light 200
+ italicLight 300
+ Regular 400
+ Semi-bold 600
+ Bold 700
+ Extra-bold 800
+ Black 900
+
+
+
+    font-family: 'Nunito', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+
+
+
+
+
+Frustrated with your current packaging design? Don’t pack it in.
+
+
+    
+Finding the right balance for success
+
+
+
+<i class="fa fa-diamond"></i>
+
